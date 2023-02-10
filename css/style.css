@@ -405,6 +405,8 @@ h1, h2, h3, h4, h5, h6, figure {
   background: #274cf0c7;
 }
 
+
+
 .fh5co-heading {
   margin-bottom: 5em;
 }
@@ -690,6 +692,7 @@ h1, h2, h3, h4, h5, h6, figure {
   margin: 0 auto 40px auto;
   position: relative;
   text-align: center;
+  color: #2980b9;
 }
 .chart span {
   position: absolute;
