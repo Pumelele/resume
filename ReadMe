@@ -43,24 +43,24 @@ Make Section 1 Heading:
    HTML color black
    Wordpress color green
    PHP color red
-   Java color yellow
+   Java color yellow --DONE
 
 7. Work
    Banner color blue
    change images and put project titles
 
  8. Post on Medium
-    Remove "Post on Medium" section 
+    Remove "Post on Medium" section --DONE
 
  9. Hire Me
     Change the banner to blue
     change the contact us button to hire Me
-    make the button background transition on mouse hover from white to green in 2s
+    make the button background transition on mouse hover from white to green in 2s --DONE!
   10 contact sections
      make multiple transition, the button "send message "  background transition on mouse hover from orange to green in 2s. create a  red boader around the button and make it transition from
-     red to green.
+     red to green. --DONE
 
-  11 Remove the map area and the sript associated with the map.
+  11 Remove the map area and the sript associated with the map. --DONE!
     
   Git-> branch called resume
         ->git commits with clear commit messages
